@@ -18,7 +18,7 @@
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/aliprmksz/loan-payment.git
-   cd loan-api
+   cd loan-payment
    
 2. **Build the Project**:
    
